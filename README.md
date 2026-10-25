@@ -185,8 +185,6 @@ FIFA_World_Cup_2026_Team_Performance_Analysis/
     └── data_dictionary.md
 ```
 
-*This is the intended project structure. Ensure the listed files and folders exist in your repository, or adjust the structure to match your actual files.*
-
 ---
 
 ## How to Explore the Project
