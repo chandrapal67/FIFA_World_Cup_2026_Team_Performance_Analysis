@@ -1,7 +1,9 @@
 
 <div align="left">
 
----
+# FIFA World Cup 2026 — Team Performance Analysis
+
+## Football Analytics Project | MySQL · SQL · Power BI
 
 ## Project Overview
 
