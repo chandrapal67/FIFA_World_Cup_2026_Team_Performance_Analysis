@@ -164,27 +164,41 @@ These questions demonstrate how SQL can transform relational football data into 
 ## Project Structure
 
 ```text
+## 📂 Project Structure
+
+```text
 FIFA_World_Cup_2026_Team_Performance_Analysis/
 │
 ├── README.md
+├── LICENSE
 │
 ├── database/
 │   └── tables/
+│       ├── 01_venues.sql
+│       ├── 02_teams.sql
+│       ├── 03_matches.sql
+│       ├── 04_players.sql
+│       ├── 05_managers.sql
+│       ├── 06_player_stats.sql
+│       ├── 07_match_events.sql
+│       └── 08_attendance.sql
 │
 ├── analysis/
 │   └── team_performance_analysis.sql
 │
-├── powerbi/
-│   └── FIFA_World_Cup_2026.pbix
+├── dashboards/
+│   ├── Team_comparison_dashboard.png
+│   └── Team_performance_dashboard.png
 │
-├── screenshots/
-│   ├── team_performance_dashboard.png
-│   └── team_comparison_dashboard.png
+├── power bi file/
+│   └── Fifa 2026 world cup analysis.pbix
 │
-├── reports/
+├── e-r diagram/
+│   └── database E-R diagram.png
 │
-└── docs/
-    └── data_dictionary.md
+├── image/
+│   └── README/
+│       ├── 179293111
 ```
 
 ---
