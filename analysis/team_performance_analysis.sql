@@ -27,7 +27,6 @@ inner join teams using(team_id)
 group by team_name
 order by 2 desc;
 
-
 # Q,2 - Which teams conceded the most goals in the tournament?
 
 select team_name,sum(goals_conceded) as total_goals_conceded
