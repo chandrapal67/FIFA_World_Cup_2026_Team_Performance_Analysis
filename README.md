@@ -164,7 +164,7 @@ These questions demonstrate how SQL can transform relational football data into 
 ## Project Structure
 
 ```text
-## 📂 Project Structure
+## Project Structure
 
 ```text
 FIFA_World_Cup_2026_Team_Performance_Analysis/
